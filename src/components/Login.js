@@ -3,7 +3,7 @@ import { initializeApp } from 'firebase/app';
 import {  signInWithEmailAndPassword   } from 'firebase/auth';
 import { getAuth } from "firebase/auth";
 import { useNavigate } from "react-router-dom";
-import pallvi from '../images/kid.jpg'
+
 
 // import { NavLink, useNavigate } from 'react-router-dom'
 import { InfinitySpin } from 'react-loader-spinner'
